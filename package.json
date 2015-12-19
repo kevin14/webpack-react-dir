@@ -1,7 +1,7 @@
 {
-  "name": "usecubes-webPack",
+  "name": "webPack-dir",
   "version": "1.0.0",
-  "description": "usecubes-webPack",
+  "description": "webPack-dir",
   "main": "index.js",
   "dependencies": {
     "babel-loader": "^6.2.0",
