@@ -10,3 +10,6 @@
 *.out
 *.swp
 *.log
+
+dist/*
+!dist/README.md
